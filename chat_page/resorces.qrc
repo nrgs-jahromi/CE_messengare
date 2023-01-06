@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>grafic/chat.png</file>
+        <file>grafic/friend.png</file>
+        <file>grafic/send.png</file>
+        <file>grafic/add-user .png</file>
+        <file>grafic/attach.png</file>
+    </qresource>
+</RCC>
